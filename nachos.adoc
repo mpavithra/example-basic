@@ -1,0 +1,18 @@
+= Nachos El Nopal
+
+Author :: George Wood
+Date :: 2014-04-28 GitHub Class Day I
+
+A recipe a restaurant in a RailRoad car in Waco Texas.
+
+* Nacho shells on cookie sheet
+* Refried Beans, on bottom
+* Three cheeses, on top
+
+Cook in oven at 500 degrees fro 90 seconds.
+
+Sprinkle with shredded lettuce and tomatoes.
+
+Add soponful of sour cream or pinch of dried onion powder.
+
+
